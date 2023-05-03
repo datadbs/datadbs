@@ -51,28 +51,25 @@
     
     신한투자증권에서 vue.js 를 이용하여 간단한 ToDoList를 firebase와 연동하여 구현.
     
-    [link](https://my-todo1-81975.web.app/)
+    [Firebase URL] : [TDL](https://my-todo1-81975.web.app/)
     
     기술스택 : vue.js , firebase
     
-- **[ 배당금 관련 프로젝트 ]**
+- **[ 배당금 관련 프로젝트 with django ](https://github.com/datadbs/alpha3)**
     
     신한투자증권에서 Django, vue.js 를 이용하여 많은 사람들이 알파 카트 기능을 몰라 알리자는 취지에서 예상 배당금과 종목간 위험률 측정을 통한 포트폴리오 기능을 추가해보았다.
     
-    [link](https://github.com/datadbs/alpha3)
-    
     기술스택 : Django, vue.js, docker, google cloud
+    
+- **[ 배당금 관련 프로젝트 with spring ](https://github.com/datadbs/dividend)**
     
     추가적으로 Spring을 공부하고자 배당금 정보를 Jsoup, Selenium으로 크롤링하여 DB에 저장해 호출하는 API을 만들어보았다.
     
     기술스택 : Spring Boot, JPA, Redis, H2 Database, JWT, Jsoup, Selenium, AWS
     
-    [link](https://github.com/datadbs/dividend)
     
-- **[ Chatgpt-Blog ]**
+- **[ Chatgpt-Blog ](https://github.com/datadbs/chatgpt-blog)**
     
     openai API을 이용해 유저가 topic(주제)만 정해주면 그 주제에 맞게 블로그(티스토리) 포스팅을 자동으로 해주는 프로그램입니다.
-    
-    [link](https://github.com/datadbs/chatgpt-blog)
     
     기술스택 : openai, streamlit, pandas
