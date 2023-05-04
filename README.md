@@ -25,6 +25,13 @@
 
 - 제3회 금융 데이터 활용 아이디어 경진대회 결승 (2023)
 
+## 📝 Blog
+
+---
+
+[GONGDAENAM](https://gongdaenam.tistory.com)
+
+
 ## 📑 Certificate
 
 ---
