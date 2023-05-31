@@ -69,15 +69,15 @@
     
     기술스택 : vue.js , firebase
     
-- **[ 배당금 관련 프로젝트 with django ](https://github.com/datadbs/alpha3)**
+- **[ 모의 투자 프로젝트 with django ](https://github.com/datadbs/alpha3)**
     
-    신한투자증권에서 Django, vue.js 를 이용하여 많은 사람들이 알파 카트 기능을 몰라 알리자는 취지에서 예상 배당금과 종목간 위험률 측정을 통한 포트폴리오 기능을 추가해보았다.
+    신한투자증권에서 Django, vue.js 를 이용하여 모의 투자 MTS(모바일트레이딩시스템)를 개발해 보고, 종목간 위험률 측정을 통한 포트폴리오 고도화 기능을 추가해보았다.
     
     기술스택 : Django, vue.js, docker, google cloud
     
 - **[ 배당금 관련 프로젝트 with spring ](https://github.com/datadbs/dividend)**
     
-    추가적으로 Spring을 공부하고자 배당금 정보를 Jsoup, Selenium으로 크롤링하여 DB에 저장해 호출하는 API을 만들어보았다.
+    Spring 프레임워크를 이용하여 배당금 정보를 Jsoup, Selenium으로 크롤링하여 DB에 저장해 호출하는 API을 만들어보았다.
     
     기술스택 : Spring Boot, JPA, Redis, H2 Database, JWT, Jsoup, Selenium, AWS
     
