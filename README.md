@@ -3,6 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdatadbs&count_bg=%23F37021&title_bg=%23FFA048&icon=github.svg&icon_color=%23C8C8C8&title=hits&edge_flat=false)
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dj9034kr)](https://solved.ac/dj9034kr/)
+
 ## 👦 Profile
 
 ---
