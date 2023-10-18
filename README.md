@@ -82,7 +82,7 @@
     
     내용 : 이 프로젝트는 군복무 시절 식대가 6000원인 식당을 찾고 저장하기 위해 만든 앱으로, 안드로이드 스튜디오를 활용하여 자바 언어를 공부하고 직접 App을 만들어 출시를 함.
     
-    기술스택 : Android Studio , JAVA
+    기술스택 : Java, Android Studio
     
     [플레이스토어 LINK] : [맛집정리](https://play.google.com/store/apps/details?id=com.findfood.findfood&hl=en_CA&gl=US)
     
@@ -90,30 +90,30 @@
     
     내용 : 이 프로젝트는 안드로이드 스튜디오를 활용하여 자바 언어를 공부하고 직접 App을 만들어 출시를 함과 동시에 광고를 달아조금의 수익창출을 목표로 시작 자바를 처음 접하는 것이기 때문에 용어을 누르면 용어설명을 보여주는 간단한 Logic 이용. 추가적으로 편의 목적을 위해 음성기능, 다크모드 등의 기능을 추가.
     
-    기술스택 : Android Studio , JAVA
+    기술스택 : Java, Android Studio
     
     [플레이스토어 LINK] : [주식용어정리](https://play.google.com/store/apps/details?id=com.stock.myapplication1&hl=en_CA&gl=US)
     
 
 - **[ ToDoList ]**
     
-    신한투자증권에서 vue.js 를 이용하여 간단한 ToDoList를 firebase와 연동하여 구현.
+    신한투자증권에서 Vue.js 를 이용하여 간단한 ToDoList를 Firebase와 연동하여 구현.
     
     [Firebase URL] : [TDL](https://my-todo1-81975.web.app/)
     
-    기술스택 : vue.js , firebase
+    기술스택 : Vue.js , Firebase
     
 - **[ 모의 투자 프로젝트 with django ](https://github.com/datadbs/alpha3)**
     
-    신한투자증권에서 Django, vue.js 를 이용하여 모의 투자 MTS(모바일트레이딩시스템)를 개발해 보고, 종목간 위험률 측정을 통한 포트폴리오 고도화 기능을 추가해보았다.
+    신한투자증권에서 Django, Vue.js 를 이용하여 모의 투자 MTS(모바일트레이딩시스템)를 개발해 보고, 종목간 위험률 측정을 통한 포트폴리오 고도화 기능을 추가해보았다.
     
-    기술스택 : Django, vue.js, docker, google cloud
+    기술스택 : Python, Django, Vue.js, Docker, Google Cloud Platform
     
 - **[ 배당금 관련 프로젝트 with spring ](https://github.com/datadbs/dividend)**
     
     Spring 프레임워크를 이용하여 배당금 정보를 Jsoup, Selenium으로 크롤링하여 DB에 저장해 호출하는 API을 만들어보았다.
     
-    기술스택 : Spring Boot, JPA, Redis, H2 Database, JWT, Jsoup, Selenium, AWS
+    기술스택 : Java, Spring Boot, JPA, Redis, H2 Database, JWT, Jsoup, Selenium, AWS
     
     
 - **[ Chatgpt-Blog ](https://github.com/datadbs/chatgpt-blog)**
