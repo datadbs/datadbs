@@ -107,10 +107,4 @@
     
     기술스택 : Java, Spring Boot, JPA, Redis, H2 Database, JWT, Jsoup, Selenium, AWS
     
-    
-- **[ Chatgpt-Blog ](https://github.com/datadbs/chatgpt-blog)**
-    
-    openai API을 이용해 유저가 topic(주제)만 정해주면 그 주제에 맞게 블로그(티스토리) 포스팅을 자동으로 해주는 프로그램입니다.
-    
-    기술스택 : openai, streamlit, pandas
 
